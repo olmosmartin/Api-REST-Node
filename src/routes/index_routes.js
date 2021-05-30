@@ -2,11 +2,7 @@ const express = require('express')
 const router = express.Router()
 
 router.get('/',(req, res)=>{
-    const datos = {
-        "nombre":"martin",
-        "datos":"algo(?"
-    }
-    res.json(datos)
+    res.send('pagina principal')
 })
 
 module.exports=router;

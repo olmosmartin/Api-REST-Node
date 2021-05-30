@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "titulo":"matrix",
+        "directo": "coso no me acuerdo",
+        "mas_cosas":"mas cosas 1"
+    },
+    {
+        "id":"2",
+        "titulo":"matri2",
+        "directo": "coso no me acuerdo2",
+        "mas_cosas":"mas cosas 2"
+
+    },
+    {
+        "id":"3",
+        "titulo":"matri3",
+        "directo": "coso no me acuerdo3",
+        "mas_cosas":"mas cosas 3"
+    },
+    {
+        "id":"4",
+        "titulo":"matri4",
+        "directo": "coso no me acuerdo4",
+        "mas_cosas":"mas cosas 4"
+    }
+]

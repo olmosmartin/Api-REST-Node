@@ -15,6 +15,8 @@ app.use(express.json());
 
 //ROUTES-----------------------------------------------
 app.use(require('./routes/index_routes.js'));
+app.use(require('./routes/peliculas.js'));
+app.use(require('./routes/usuarios.js'));
 
 
 //STATIC-FILES-----------------------------------------
